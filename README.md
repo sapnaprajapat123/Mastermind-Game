@@ -1,1 +1,1 @@
-# Mastermind-Game
+# Games in Python
